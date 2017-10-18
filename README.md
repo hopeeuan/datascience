@@ -1,2 +1,3 @@
 # datascience
-Repo for NYCDS course
+
+Welcome to my Github repo.
